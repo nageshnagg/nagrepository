@@ -1,6 +1,11 @@
 hi nagesh how do u do 
 i am fine bro
+<<<<<<< HEAD
 i am venkatesh venky
 i am venkatweee
 
 i am good 
+=======
+i am good
+what about you
+>>>>>>> 5ff597827af6144ddd14d075fc34b758d0d567d3
